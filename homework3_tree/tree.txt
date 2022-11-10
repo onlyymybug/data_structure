@@ -1,0 +1,10 @@
+level  order:ABCDEFG
+middle order:DGBEAFC
+tree struct:
+          A
+        /   \
+       B     C
+      / \   /
+     D   E F
+      \
+       G
